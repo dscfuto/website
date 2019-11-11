@@ -4,9 +4,7 @@
 ![](https://img.shields.io/github/forks/dscfuto/website.svg?style=social)
 ![](https://img.shields.io/github/issues/kelvinkamau/Vibranium.svg)
 ![](https://img.shields.io/maintenance/yes/2019.svg)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ec27af46e31459f9c11a4c1f5ff6f71)](https://www.codacy.com/app/kamaucodes/Vibranium?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kelvinkamau/Vibranium&amp;utm_campaign=Badge_Grade)
-
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02646f76a26242e3b483fc44e41d9e00)](https://www.codacy.com/manual/dscfuto/website?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dscfuto/website&amp;utm_campaign=Badge_Grade)
 
 ## Usage 🛠
 * Fork repository and clone it locally
