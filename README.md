@@ -40,6 +40,8 @@ git commit -m 'Updated to the latest version'
 ## Contributing
 Project DSCFUTO-website is an open source software project and I encourage developers to contribute patches and code for us to include in the main package of this Project. All contributions will be fully credited.
 
+All contributions to this project are done inside the src folder, ensure to make use of gulp to build out the project.
+
 ## Using GitHub Issues
 * Feel free to use GitHub issues for questions, bug reports, and feature requests
 * Use the search feature to check for an existing issue
