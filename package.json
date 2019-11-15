@@ -1,7 +1,7 @@
 {
-  "name": "vibranium",
+  "name": "dscfuto",
   "version": "1.0.0",
-  "description": "Website for DSC SubSaharan Africa",
+  "description": "Website for DSC FUTO",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,25 +10,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kelvinkamau/Vibranium.git"
+    "url": "git+https://github.com/dscfuto/website.git"
   },
   "keywords": [
     "dsc",
-    "unilag"
+    "futo",
+    "community",
+    "googleDevelopers"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kelvinkamau/Vibranium/issues"
+    "url": "https://github.com/dscfuto/website/issues"
   },
-  "homepage": "https://github.com/kelvinkamau/Vibranium/#readme",
+  "homepage": "https://github.com/dscfuto/website/#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.2.0",
-    "gulp-connect": "^5.7.0",
-    "gulp-htmlmin": "^5.0.1",
-    "gulp-imagemin": "^6.0.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-uglify-es": "^1.0.4"
+    "gulp": "4.0.2",
+    "gulp-clean-css": "4.2.0",
+    "gulp-connect": "5.7.0",
+    "gulp-htmlmin": "5.0.1",
+    "gulp-imagemin": "6.2.0",
+    "gulp-sourcemaps": "2.6.5",
+    "gulp-uglify-es": "2.0.0"
   }
 }
